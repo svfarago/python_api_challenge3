@@ -87,6 +87,13 @@ None.
 == Troubleshooting ===============
 #print hashtags are used liberally throughout the code to run individual lines of code for additional testing/troubleshooting, and general comment hashtags are used for code notes/additional information.
 
+Heatmaps
+I was unable to initially print heatmaps. From command line I ran these two lines:
+$  pip install gmaps
+$  jupyter nbextension enable --py --sys-prefix gmaps
+Then I completely shut down Jupyter Notebook and restarted it.
+
+
 Resources used to build and troubleshoot this code are listed below, in addition to help and code peer review from students, instructor, and TA's in class and external tutor (N.Tsai). 
 Additional Git Hub Resources: H.Kaur, E.Gaga, D.Weeks
 
@@ -96,10 +103,11 @@ https://github.com/mwaskom/seaborn/issues/375
 https://www.geographyrealm.com/latitude-longitude/
 https://www.w3schools.com/python/python_try_except.asp
 https://www.geeksforgeeks.org/python-pandas-dataframe-dropna/
+https://stackoverflow.com/questions/47536735/my-google-heat-map-wont-appear-in-jupyter-notebook
 https://www.geeksforgeeks.org/drop-rows-from-the-dataframe-based-on-certain-condition-applied-on-a-column/
 
 
-URLs last used: January 22, 2021
+URLs last used: January 24, 2021
 
 
 
