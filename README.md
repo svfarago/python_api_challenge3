@@ -1,11 +1,11 @@
 # python_api_challenge
-This is my first Pandas project using APIs within a Jupyter Notebook.
+This is my first Pandas project using APIs and mapping within a Jupyter Notebook.
 
 ================
 ReadMe File
 ================
 
-Updated: Jan 24, 2021 | Created: Jan 20, 2021
+Updated: Jan 25, 2021 | Created: Jan 20, 2021
 Copyright: open source
 
 == License ===========================
@@ -23,6 +23,7 @@ Applications used for the python_api_challenge:
 - Visual Studio Code for the Readme.md
 - Git Hub (to save versions and share code while in development)
 - Image viewer such as Microsoft Photos or Microsoft Paint
+- Various dependencies and setups were required as part of pip, Jupyter Notebook. See "Dependencies and Setup" at the top of each Jupyter Notebook for a list of dependencies.
 
 Similar applications may also work.
 
@@ -36,8 +37,8 @@ ATTENTION: IF you want to run this script, register to the API resources listed 
 
 == List of Files ====================
 \python_api_challenge
-    \output_data  (all image files auto-generated from script)
-        cities.csv
+    \output_data  (all image files auto-generated from WeatherPy script)
+        weather_globalcities.csv
         Latitude_cloudiness.png
         Latitude_humidity.png
         Latitude_temperature.png
@@ -50,11 +51,14 @@ ATTENTION: IF you want to run this script, register to the API resources listed 
         Linreg_south_humid.png
         Linreg_south_temp.png
         Linreg_south_wind.png
-        .png
     \VacationPy
+        .ipynb_checkpoints
+        --pycache--
         api_keys
         VacationPy.ipynb
     \WeatherPy
+        .ipynb_checkpoints
+        --pycache--
         api_keys
         WeatherPy.ipynb
     README.md
@@ -67,11 +71,10 @@ Data pulled from APIs. See API Resources below.
 == API Resources =======================
 https://openweathermap.org/appid
 https://developers.google.com/maps/apis-by-platform
+Monitor Google API usage at: https://developers.google.com/maps/reporting/gmp-reporting
 
 Registration is required to obtain personal APIs. Follow respective documentation at each website for more information.
-
-
-URLs last used: January 23, 2021
+APIs registered on: January 22, 2021
 
 
 == Data Alterations =======================
@@ -102,6 +105,7 @@ Web URLs:
 https://github.com/mwaskom/seaborn/issues/375
 https://www.geographyrealm.com/latitude-longitude/
 https://www.w3schools.com/python/python_try_except.asp
+https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html
 https://www.geeksforgeeks.org/python-pandas-dataframe-dropna/
 https://stackoverflow.com/questions/47536735/my-google-heat-map-wont-appear-in-jupyter-notebook
 https://www.geeksforgeeks.org/drop-rows-from-the-dataframe-based-on-certain-condition-applied-on-a-column/
@@ -117,5 +121,5 @@ Colorado   United States
 
 
 == Random Notes ===============
-This is my first Pandas project using APIs within a Jupyter Notebook.
-Time to complete: approximately 20 hours
+This is my first Pandas project using APIs and mapping within a Jupyter Notebook.
+Time to complete: approximately 22 hours
