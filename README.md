@@ -97,21 +97,23 @@ $  jupyter nbextension enable --py --sys-prefix gmaps
 Then I completely shut down Jupyter Notebook and restarted it.
 
 
-Resources used to build and troubleshoot this code are listed below, in addition to help and code peer review from students, instructor, and TA's in class and external tutor (N.Tsai). 
-Additional Git Hub Resources: H.Kaur, E.Gaga, D.Weeks
+Resources used to build and troubleshoot this code are listed below, in addition to help and code peer review from students, instructor, and TA's.
 
 
 Web URLs:
+https://ohshitgit.com/
 https://github.com/mwaskom/seaborn/issues/375
 https://www.geographyrealm.com/latitude-longitude/
 https://www.w3schools.com/python/python_try_except.asp
+https://jupyter-gmaps.readthedocs.io/en/v0.3.3/gmaps.html
 https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html
+
 https://www.geeksforgeeks.org/python-pandas-dataframe-dropna/
 https://stackoverflow.com/questions/47536735/my-google-heat-map-wont-appear-in-jupyter-notebook
 https://www.geeksforgeeks.org/drop-rows-from-the-dataframe-based-on-certain-condition-applied-on-a-column/
 
 
-URLs last used: January 24, 2021
+URLs last used: January 25, 2021
 
 
 
