@@ -56,6 +56,8 @@ ATTENTION: IF you want to run this script, register to the API resources listed 
         --pycache--
         api_keys
         VacationPy.ipynb
+        VacationPy_Heatmap.png
+        VacationPy_Hotelmap.png
     \WeatherPy
         .ipynb_checkpoints
         --pycache--
@@ -70,7 +72,7 @@ Data pulled from APIs. See API Resources below.
 
 == API Resources =======================
 https://openweathermap.org/appid
-https://developers.google.com/maps/apis-by-platform
+https://developers.google.com/maps/apis-by-platform 
 Monitor Google API usage at: https://developers.google.com/maps/reporting/gmp-reporting
 
 Registration is required to obtain personal APIs. Follow respective documentation at each website for more information.
@@ -107,10 +109,10 @@ https://www.geographyrealm.com/latitude-longitude/
 https://www.w3schools.com/python/python_try_except.asp
 https://jupyter-gmaps.readthedocs.io/en/v0.3.3/gmaps.html
 https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html
-
 https://www.geeksforgeeks.org/python-pandas-dataframe-dropna/
 https://stackoverflow.com/questions/47536735/my-google-heat-map-wont-appear-in-jupyter-notebook
 https://www.geeksforgeeks.org/drop-rows-from-the-dataframe-based-on-certain-condition-applied-on-a-column/
+https://stackoverflow.com/questions/11854847/how-can-i-display-an-image-from-a-file-in-jupyter-notebook
 
 
 URLs last used: January 25, 2021
